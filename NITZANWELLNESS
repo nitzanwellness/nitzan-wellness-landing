@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ניצן וולנס | טיפול רגשי והדרכת הורים</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f5f0;
+            text-align: center;
+            padding: 20px;
+            color: #4a4a4a;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #6b705c;
+            font-size: 24px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .quote {
+            font-size: 20px;
+            font-style: italic;
+            color: #6b705c;
+            margin: 20px 0;
+            text-align: right;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 18px;
+            color: white;
+            background-color: #a98467;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: #8c6d55;
+        }
+        .watercolor-background {
+            background: url('https://www.transparenttextures.com/patterns/soft-paper.png');
+            padding: 40px 0;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #7a7a7a;
+        }
+    </style>
+</head>
+<body>
+    <div class="watercolor-background">
+        <div class="container">
+            <h1>🌿 ניצן וולנס | טיפול רגשי והדרכת הורים 🌿</h1>
+            <p>ליווי רגשי והדרכת הורים בדרך טבעית, רגועה ומלאת חמלה.</p>
+            <p>אני כאן כדי לעזור לכם להבין את העולם הרגשי שלכם ושל ילדיכם, להתמודד עם אתגרים הוריים ולקבל כלים מעשיים שיחזקו את הקשר המשפחתי.</p>
+            <p>הורות היא מסע – ואני כאן כדי ללוות אתכם בדרך, עם הרבה סבלנות, חמלה והכוונה מותאמת אישית.</p>
+            <p>אם אתם מחפשים הדרכה, תמיכה וכלים לשיפור התקשורת במשפחה, אני כאן בשבילכם.</p>
+            <p class="quote">
+                אָדָם זָקוּק לְפָחוֹת לְדֶלֶת אַחַת<br>
+                לִפְתֹּחַ אֶת מַה שֶׁסָּגַר<br>
+                לְהִכָּנֵס כְּדֵי לְגַלּוֹת<br>
+                לָצֵאת בִּשְׁבִיל לְחַפֵּשׂ<br>
+                לִסְגֹּר עַל מְנָת לְהַנִּיחַ<br>
+                אָדָם זָקוּק לְדֶלֶת אַחַת<br>
+                לִתְלוֹת עָלֶיהָ שֶׁלֶט<br>
+                לִקְרֹא לָהּ בְּשֵׁם<br>
+                אָדָם זָקוּק לְדֶלֶת<br>
+                כְּדֵי שֶׁיּוּכַל לִנְקֹשׁ עָלֶיהָ בְּיָד רַכָּה<br>
+                לִשְׁמֹעַ מִישֶׁהוּ בְּצִדָּהּ הַשֵּׁנִי<br>
+                עוֹנֶה לוֹ: יָבוֹא<br>
+                <br>– עידית ברק
+            </p>
+            <a href="https://wa.me/0544958337" class="cta-button">📲 לתיאום שיחה</a>
+        </div>
+    </div>
+    <div class="footer">© 2025 ניצן וולנס | כל הזכויות שמורות</div>
+</body>
+</html
